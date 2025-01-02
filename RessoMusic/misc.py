@@ -14,7 +14,7 @@ SUDOERS = filters.user()
 HAPP = None
 _boot_ = time.time()
 
-#AMBOT = 7045191057
+#VISHNU = 5923034665
 
 def is_heroku():
     return "heroku" in socket.getfqdn()
